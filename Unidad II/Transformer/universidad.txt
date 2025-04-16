@@ -1,0 +1,600 @@
+<|startoftext|><|universidad|>Pregunta: ¿Cuáles son los requisitos para postular a la universidad?
+Respuesta: Para postular necesitas tu cédula de identidad, certificado de notas de enseñanza media y haber rendido la PAES.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Cuándo son las matrículas para el primer semestre?
+Respuesta: Las matrículas comienzan en enero, justo después de la publicación de los resultados de la PAES.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Qué carreras ofrece la universidad en modalidad vespertina?
+Respuesta: Las carreras vespertinas incluyen Ingeniería Comercial, Psicología, Trabajo Social y Contador Auditor.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Dónde puedo ver los resultados de mi postulación?
+Respuesta: Puedes ver tus resultados ingresando al portal del estudiante con tu RUT y clave.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Qué beneficios estudiantiles puedo postular?
+Respuesta: Puedes postular a gratuidad, becas internas, beca de alimentación y el Fondo Solidario de Crédito Universitario.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Qué documentos necesito para la matrícula?
+Respuesta: Necesitas tu cédula de identidad, licencia de enseñanza media, certificado de nacimiento y comprobante de postulación.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Cuánto cuesta la matrícula?
+Respuesta: El valor de la matrícula varía según la carrera, pero en promedio es de $180.000 CLP.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿La universidad tiene campus en otras ciudades?
+Respuesta: Sí, contamos con campus en Valdivia, Osorno, Puerto Montt y Temuco.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Cuál es el horario de atención de la oficina de admisión?
+Respuesta: De lunes a viernes de 9:00 a 18:00 horas.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Puedo congelar mis estudios?
+Respuesta: Sí, puedes congelar una vez por año académico, presentando una solicitud y justificación.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Cuáles son las carreras más demandadas?
+Respuesta: Las carreras más demandadas son Enfermería, Ingeniería Civil Informática y Psicología.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Cuándo empieza el año académico 2025?
+Respuesta: El primer semestre inicia el lunes 10 de marzo de 2025.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Puedo cambiarme de carrera una vez matriculado?
+Respuesta: Sí, puedes solicitar un cambio de carrera después del primer semestre, sujeto a cupo disponible.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Hay intercambios estudiantiles?
+Respuesta: Sí, la universidad tiene convenios con instituciones en España, México, Colombia y Alemania.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Dónde puedo solicitar una beca interna?
+Respuesta: Debes ingresar al sistema de becas con tu RUT y completar el formulario online.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Cuáles son los requisitos para postular a la universidad?
+Respuesta: Para postular necesitas tu cédula de identidad, certificado de notas de enseñanza media y haber rendido la PAES.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Cuándo son las matrículas para el primer semestre?
+Respuesta: Las matrículas comienzan en enero, justo después de la publicación de los resultados de la PAES.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Qué carreras ofrece la universidad en modalidad vespertina?
+Respuesta: Las carreras vespertinas incluyen Ingeniería Comercial, Psicología, Trabajo Social y Contador Auditor.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Dónde puedo ver los resultados de mi postulación?
+Respuesta: Puedes ver tus resultados ingresando al portal del estudiante con tu RUT y clave.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Qué beneficios estudiantiles puedo postular?
+Respuesta: Puedes postular a gratuidad, becas internas, beca de alimentación y el Fondo Solidario de Crédito Universitario.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Qué documentos necesito para la matrícula?
+Respuesta: Necesitas tu cédula de identidad, licencia de enseñanza media, certificado de nacimiento y comprobante de postulación.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Cuánto cuesta la matrícula?
+Respuesta: El valor de la matrícula varía según la carrera, pero en promedio es de $180.000 CLP.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿La universidad tiene campus en otras ciudades?
+Respuesta: Sí, contamos con campus en Valdivia, Osorno, Puerto Montt y Temuco.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Cuál es el horario de atención de la oficina de admisión?
+Respuesta: De lunes a viernes de 9:00 a 18:00 horas.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Puedo congelar mis estudios?
+Respuesta: Sí, puedes congelar una vez por año académico, presentando una solicitud y justificación.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Cuáles son las carreras más demandadas?
+Respuesta: Las carreras más demandadas son Enfermería, Ingeniería Civil Informática y Psicología.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Cuándo empieza el año académico 2025?
+Respuesta: El primer semestre inicia el lunes 10 de marzo de 2025.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Puedo cambiarme de carrera una vez matriculado?
+Respuesta: Sí, puedes solicitar un cambio de carrera después del primer semestre, sujeto a cupo disponible.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Hay intercambios estudiantiles?
+Respuesta: Sí, la universidad tiene convenios con instituciones en España, México, Colombia y Alemania.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Dónde puedo solicitar una beca interna?
+Respuesta: Debes ingresar al sistema de becas con tu RUT y completar el formulario online.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Cuáles son los requisitos para postular a la universidad?
+Respuesta: Para postular necesitas tu cédula de identidad, certificado de notas de enseñanza media y haber rendido la PAES.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Cuándo son las matrículas para el primer semestre?
+Respuesta: Las matrículas comienzan en enero, justo después de la publicación de los resultados de la PAES.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Qué carreras ofrece la universidad en modalidad vespertina?
+Respuesta: Las carreras vespertinas incluyen Ingeniería Comercial, Psicología, Trabajo Social y Contador Auditor.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Dónde puedo ver los resultados de mi postulación?
+Respuesta: Puedes ver tus resultados ingresando al portal del estudiante con tu RUT y clave.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Qué beneficios estudiantiles puedo postular?
+Respuesta: Puedes postular a gratuidad, becas internas, beca de alimentación y el Fondo Solidario de Crédito Universitario.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Qué documentos necesito para la matrícula?
+Respuesta: Necesitas tu cédula de identidad, licencia de enseñanza media, certificado de nacimiento y comprobante de postulación.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Cuánto cuesta la matrícula?
+Respuesta: El valor de la matrícula varía según la carrera, pero en promedio es de $180.000 CLP.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿La universidad tiene campus en otras ciudades?
+Respuesta: Sí, contamos con campus en Valdivia, Osorno, Puerto Montt y Temuco.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Cuál es el horario de atención de la oficina de admisión?
+Respuesta: De lunes a viernes de 9:00 a 18:00 horas.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Puedo congelar mis estudios?
+Respuesta: Sí, puedes congelar una vez por año académico, presentando una solicitud y justificación.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Cuáles son las carreras más demandadas?
+Respuesta: Las carreras más demandadas son Enfermería, Ingeniería Civil Informática y Psicología.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Cuándo empieza el año académico 2025?
+Respuesta: El primer semestre inicia el lunes 10 de marzo de 2025.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Puedo cambiarme de carrera una vez matriculado?
+Respuesta: Sí, puedes solicitar un cambio de carrera después del primer semestre, sujeto a cupo disponible.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Hay intercambios estudiantiles?
+Respuesta: Sí, la universidad tiene convenios con instituciones en España, México, Colombia y Alemania.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Dónde puedo solicitar una beca interna?
+Respuesta: Debes ingresar al sistema de becas con tu RUT y completar el formulario online.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Cuáles son los requisitos para postular a la universidad?
+Respuesta: Para postular necesitas tu cédula de identidad, certificado de notas de enseñanza media y haber rendido la PAES.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Cuándo son las matrículas para el primer semestre?
+Respuesta: Las matrículas comienzan en enero, justo después de la publicación de los resultados de la PAES.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Qué carreras ofrece la universidad en modalidad vespertina?
+Respuesta: Las carreras vespertinas incluyen Ingeniería Comercial, Psicología, Trabajo Social y Contador Auditor.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Dónde puedo ver los resultados de mi postulación?
+Respuesta: Puedes ver tus resultados ingresando al portal del estudiante con tu RUT y clave.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Qué beneficios estudiantiles puedo postular?
+Respuesta: Puedes postular a gratuidad, becas internas, beca de alimentación y el Fondo Solidario de Crédito Universitario.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Qué documentos necesito para la matrícula?
+Respuesta: Necesitas tu cédula de identidad, licencia de enseñanza media, certificado de nacimiento y comprobante de postulación.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Cuánto cuesta la matrícula?
+Respuesta: El valor de la matrícula varía según la carrera, pero en promedio es de $180.000 CLP.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿La universidad tiene campus en otras ciudades?
+Respuesta: Sí, contamos con campus en Valdivia, Osorno, Puerto Montt y Temuco.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Cuál es el horario de atención de la oficina de admisión?
+Respuesta: De lunes a viernes de 9:00 a 18:00 horas.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Puedo congelar mis estudios?
+Respuesta: Sí, puedes congelar una vez por año académico, presentando una solicitud y justificación.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Cuáles son las carreras más demandadas?
+Respuesta: Las carreras más demandadas son Enfermería, Ingeniería Civil Informática y Psicología.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Cuándo empieza el año académico 2025?
+Respuesta: El primer semestre inicia el lunes 10 de marzo de 2025.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Puedo cambiarme de carrera una vez matriculado?
+Respuesta: Sí, puedes solicitar un cambio de carrera después del primer semestre, sujeto a cupo disponible.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Hay intercambios estudiantiles?
+Respuesta: Sí, la universidad tiene convenios con instituciones en España, México, Colombia y Alemania.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Dónde puedo solicitar una beca interna?
+Respuesta: Debes ingresar al sistema de becas con tu RUT y completar el formulario online.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Cuáles son los requisitos para postular a la universidad?
+Respuesta: Para postular necesitas tu cédula de identidad, certificado de notas de enseñanza media y haber rendido la PAES.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Cuándo son las matrículas para el primer semestre?
+Respuesta: Las matrículas comienzan en enero, justo después de la publicación de los resultados de la PAES.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Qué carreras ofrece la universidad en modalidad vespertina?
+Respuesta: Las carreras vespertinas incluyen Ingeniería Comercial, Psicología, Trabajo Social y Contador Auditor.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Dónde puedo ver los resultados de mi postulación?
+Respuesta: Puedes ver tus resultados ingresando al portal del estudiante con tu RUT y clave.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Qué beneficios estudiantiles puedo postular?
+Respuesta: Puedes postular a gratuidad, becas internas, beca de alimentación y el Fondo Solidario de Crédito Universitario.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Qué documentos necesito para la matrícula?
+Respuesta: Necesitas tu cédula de identidad, licencia de enseñanza media, certificado de nacimiento y comprobante de postulación.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Cuánto cuesta la matrícula?
+Respuesta: El valor de la matrícula varía según la carrera, pero en promedio es de $180.000 CLP.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿La universidad tiene campus en otras ciudades?
+Respuesta: Sí, contamos con campus en Valdivia, Osorno, Puerto Montt y Temuco.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Cuál es el horario de atención de la oficina de admisión?
+Respuesta: De lunes a viernes de 9:00 a 18:00 horas.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Puedo congelar mis estudios?
+Respuesta: Sí, puedes congelar una vez por año académico, presentando una solicitud y justificación.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Cuáles son las carreras más demandadas?
+Respuesta: Las carreras más demandadas son Enfermería, Ingeniería Civil Informática y Psicología.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Cuándo empieza el año académico 2025?
+Respuesta: El primer semestre inicia el lunes 10 de marzo de 2025.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Puedo cambiarme de carrera una vez matriculado?
+Respuesta: Sí, puedes solicitar un cambio de carrera después del primer semestre, sujeto a cupo disponible.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Hay intercambios estudiantiles?
+Respuesta: Sí, la universidad tiene convenios con instituciones en España, México, Colombia y Alemania.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Dónde puedo solicitar una beca interna?
+Respuesta: Debes ingresar al sistema de becas con tu RUT y completar el formulario online.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Cuáles son los requisitos para postular a la universidad?
+Respuesta: Para postular necesitas tu cédula de identidad, certificado de notas de enseñanza media y haber rendido la PAES.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Cuándo son las matrículas para el primer semestre?
+Respuesta: Las matrículas comienzan en enero, justo después de la publicación de los resultados de la PAES.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Qué carreras ofrece la universidad en modalidad vespertina?
+Respuesta: Las carreras vespertinas incluyen Ingeniería Comercial, Psicología, Trabajo Social y Contador Auditor.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Dónde puedo ver los resultados de mi postulación?
+Respuesta: Puedes ver tus resultados ingresando al portal del estudiante con tu RUT y clave.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Qué beneficios estudiantiles puedo postular?
+Respuesta: Puedes postular a gratuidad, becas internas, beca de alimentación y el Fondo Solidario de Crédito Universitario.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Qué documentos necesito para la matrícula?
+Respuesta: Necesitas tu cédula de identidad, licencia de enseñanza media, certificado de nacimiento y comprobante de postulación.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Cuánto cuesta la matrícula?
+Respuesta: El valor de la matrícula varía según la carrera, pero en promedio es de $180.000 CLP.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿La universidad tiene campus en otras ciudades?
+Respuesta: Sí, contamos con campus en Valdivia, Osorno, Puerto Montt y Temuco.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Cuál es el horario de atención de la oficina de admisión?
+Respuesta: De lunes a viernes de 9:00 a 18:00 horas.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Puedo congelar mis estudios?
+Respuesta: Sí, puedes congelar una vez por año académico, presentando una solicitud y justificación.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Cuáles son las carreras más demandadas?
+Respuesta: Las carreras más demandadas son Enfermería, Ingeniería Civil Informática y Psicología.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Cuándo empieza el año académico 2025?
+Respuesta: El primer semestre inicia el lunes 10 de marzo de 2025.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Puedo cambiarme de carrera una vez matriculado?
+Respuesta: Sí, puedes solicitar un cambio de carrera después del primer semestre, sujeto a cupo disponible.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Hay intercambios estudiantiles?
+Respuesta: Sí, la universidad tiene convenios con instituciones en España, México, Colombia y Alemania.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Dónde puedo solicitar una beca interna?
+Respuesta: Debes ingresar al sistema de becas con tu RUT y completar el formulario online.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Cuáles son los requisitos para postular a la universidad?
+Respuesta: Para postular necesitas tu cédula de identidad, certificado de notas de enseñanza media y haber rendido la PAES.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Cuándo son las matrículas para el primer semestre?
+Respuesta: Las matrículas comienzan en enero, justo después de la publicación de los resultados de la PAES.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Qué carreras ofrece la universidad en modalidad vespertina?
+Respuesta: Las carreras vespertinas incluyen Ingeniería Comercial, Psicología, Trabajo Social y Contador Auditor.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Dónde puedo ver los resultados de mi postulación?
+Respuesta: Puedes ver tus resultados ingresando al portal del estudiante con tu RUT y clave.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Qué beneficios estudiantiles puedo postular?
+Respuesta: Puedes postular a gratuidad, becas internas, beca de alimentación y el Fondo Solidario de Crédito Universitario.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Qué documentos necesito para la matrícula?
+Respuesta: Necesitas tu cédula de identidad, licencia de enseñanza media, certificado de nacimiento y comprobante de postulación.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Cuánto cuesta la matrícula?
+Respuesta: El valor de la matrícula varía según la carrera, pero en promedio es de $180.000 CLP.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿La universidad tiene campus en otras ciudades?
+Respuesta: Sí, contamos con campus en Valdivia, Osorno, Puerto Montt y Temuco.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Cuál es el horario de atención de la oficina de admisión?
+Respuesta: De lunes a viernes de 9:00 a 18:00 horas.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Puedo congelar mis estudios?
+Respuesta: Sí, puedes congelar una vez por año académico, presentando una solicitud y justificación.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Cuáles son las carreras más demandadas?
+Respuesta: Las carreras más demandadas son Enfermería, Ingeniería Civil Informática y Psicología.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Cuándo empieza el año académico 2025?
+Respuesta: El primer semestre inicia el lunes 10 de marzo de 2025.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Puedo cambiarme de carrera una vez matriculado?
+Respuesta: Sí, puedes solicitar un cambio de carrera después del primer semestre, sujeto a cupo disponible.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Hay intercambios estudiantiles?
+Respuesta: Sí, la universidad tiene convenios con instituciones en España, México, Colombia y Alemania.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Dónde puedo solicitar una beca interna?
+Respuesta: Debes ingresar al sistema de becas con tu RUT y completar el formulario online.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Cuáles son los requisitos para postular a la universidad?
+Respuesta: Para postular necesitas tu cédula de identidad, certificado de notas de enseñanza media y haber rendido la PAES.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Cuándo son las matrículas para el primer semestre?
+Respuesta: Las matrículas comienzan en enero, justo después de la publicación de los resultados de la PAES.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Qué carreras ofrece la universidad en modalidad vespertina?
+Respuesta: Las carreras vespertinas incluyen Ingeniería Comercial, Psicología, Trabajo Social y Contador Auditor.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Dónde puedo ver los resultados de mi postulación?
+Respuesta: Puedes ver tus resultados ingresando al portal del estudiante con tu RUT y clave.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Qué beneficios estudiantiles puedo postular?
+Respuesta: Puedes postular a gratuidad, becas internas, beca de alimentación y el Fondo Solidario de Crédito Universitario.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Qué documentos necesito para la matrícula?
+Respuesta: Necesitas tu cédula de identidad, licencia de enseñanza media, certificado de nacimiento y comprobante de postulación.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Cuánto cuesta la matrícula?
+Respuesta: El valor de la matrícula varía según la carrera, pero en promedio es de $180.000 CLP.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿La universidad tiene campus en otras ciudades?
+Respuesta: Sí, contamos con campus en Valdivia, Osorno, Puerto Montt y Temuco.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Cuál es el horario de atención de la oficina de admisión?
+Respuesta: De lunes a viernes de 9:00 a 18:00 horas.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Puedo congelar mis estudios?
+Respuesta: Sí, puedes congelar una vez por año académico, presentando una solicitud y justificación.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Cuáles son las carreras más demandadas?
+Respuesta: Las carreras más demandadas son Enfermería, Ingeniería Civil Informática y Psicología.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Cuándo empieza el año académico 2025?
+Respuesta: El primer semestre inicia el lunes 10 de marzo de 2025.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Puedo cambiarme de carrera una vez matriculado?
+Respuesta: Sí, puedes solicitar un cambio de carrera después del primer semestre, sujeto a cupo disponible.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Hay intercambios estudiantiles?
+Respuesta: Sí, la universidad tiene convenios con instituciones en España, México, Colombia y Alemania.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Dónde puedo solicitar una beca interna?
+Respuesta: Debes ingresar al sistema de becas con tu RUT y completar el formulario online.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Cuáles son los requisitos para postular a la universidad?
+Respuesta: Para postular necesitas tu cédula de identidad, certificado de notas de enseñanza media y haber rendido la PAES.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Cuándo son las matrículas para el primer semestre?
+Respuesta: Las matrículas comienzan en enero, justo después de la publicación de los resultados de la PAES.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Qué carreras ofrece la universidad en modalidad vespertina?
+Respuesta: Las carreras vespertinas incluyen Ingeniería Comercial, Psicología, Trabajo Social y Contador Auditor.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Dónde puedo ver los resultados de mi postulación?
+Respuesta: Puedes ver tus resultados ingresando al portal del estudiante con tu RUT y clave.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Qué beneficios estudiantiles puedo postular?
+Respuesta: Puedes postular a gratuidad, becas internas, beca de alimentación y el Fondo Solidario de Crédito Universitario.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Qué documentos necesito para la matrícula?
+Respuesta: Necesitas tu cédula de identidad, licencia de enseñanza media, certificado de nacimiento y comprobante de postulación.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Cuánto cuesta la matrícula?
+Respuesta: El valor de la matrícula varía según la carrera, pero en promedio es de $180.000 CLP.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿La universidad tiene campus en otras ciudades?
+Respuesta: Sí, contamos con campus en Valdivia, Osorno, Puerto Montt y Temuco.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Cuál es el horario de atención de la oficina de admisión?
+Respuesta: De lunes a viernes de 9:00 a 18:00 horas.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Puedo congelar mis estudios?
+Respuesta: Sí, puedes congelar una vez por año académico, presentando una solicitud y justificación.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Cuáles son las carreras más demandadas?
+Respuesta: Las carreras más demandadas son Enfermería, Ingeniería Civil Informática y Psicología.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Cuándo empieza el año académico 2025?
+Respuesta: El primer semestre inicia el lunes 10 de marzo de 2025.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Puedo cambiarme de carrera una vez matriculado?
+Respuesta: Sí, puedes solicitar un cambio de carrera después del primer semestre, sujeto a cupo disponible.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Hay intercambios estudiantiles?
+Respuesta: Sí, la universidad tiene convenios con instituciones en España, México, Colombia y Alemania.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Dónde puedo solicitar una beca interna?
+Respuesta: Debes ingresar al sistema de becas con tu RUT y completar el formulario online.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Cuáles son los requisitos para postular a la universidad?
+Respuesta: Para postular necesitas tu cédula de identidad, certificado de notas de enseñanza media y haber rendido la PAES.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Cuándo son las matrículas para el primer semestre?
+Respuesta: Las matrículas comienzan en enero, justo después de la publicación de los resultados de la PAES.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Qué carreras ofrece la universidad en modalidad vespertina?
+Respuesta: Las carreras vespertinas incluyen Ingeniería Comercial, Psicología, Trabajo Social y Contador Auditor.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Dónde puedo ver los resultados de mi postulación?
+Respuesta: Puedes ver tus resultados ingresando al portal del estudiante con tu RUT y clave.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Qué beneficios estudiantiles puedo postular?
+Respuesta: Puedes postular a gratuidad, becas internas, beca de alimentación y el Fondo Solidario de Crédito Universitario.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Qué documentos necesito para la matrícula?
+Respuesta: Necesitas tu cédula de identidad, licencia de enseñanza media, certificado de nacimiento y comprobante de postulación.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Cuánto cuesta la matrícula?
+Respuesta: El valor de la matrícula varía según la carrera, pero en promedio es de $180.000 CLP.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿La universidad tiene campus en otras ciudades?
+Respuesta: Sí, contamos con campus en Valdivia, Osorno, Puerto Montt y Temuco.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Cuál es el horario de atención de la oficina de admisión?
+Respuesta: De lunes a viernes de 9:00 a 18:00 horas.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Puedo congelar mis estudios?
+Respuesta: Sí, puedes congelar una vez por año académico, presentando una solicitud y justificación.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Cuáles son las carreras más demandadas?
+Respuesta: Las carreras más demandadas son Enfermería, Ingeniería Civil Informática y Psicología.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Cuándo empieza el año académico 2025?
+Respuesta: El primer semestre inicia el lunes 10 de marzo de 2025.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Puedo cambiarme de carrera una vez matriculado?
+Respuesta: Sí, puedes solicitar un cambio de carrera después del primer semestre, sujeto a cupo disponible.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Hay intercambios estudiantiles?
+Respuesta: Sí, la universidad tiene convenios con instituciones en España, México, Colombia y Alemania.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Dónde puedo solicitar una beca interna?
+Respuesta: Debes ingresar al sistema de becas con tu RUT y completar el formulario online.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Cuáles son los requisitos para postular a la universidad?
+Respuesta: Para postular necesitas tu cédula de identidad, certificado de notas de enseñanza media y haber rendido la PAES.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Cuándo son las matrículas para el primer semestre?
+Respuesta: Las matrículas comienzan en enero, justo después de la publicación de los resultados de la PAES.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Qué carreras ofrece la universidad en modalidad vespertina?
+Respuesta: Las carreras vespertinas incluyen Ingeniería Comercial, Psicología, Trabajo Social y Contador Auditor.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Dónde puedo ver los resultados de mi postulación?
+Respuesta: Puedes ver tus resultados ingresando al portal del estudiante con tu RUT y clave.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Qué beneficios estudiantiles puedo postular?
+Respuesta: Puedes postular a gratuidad, becas internas, beca de alimentación y el Fondo Solidario de Crédito Universitario.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Qué documentos necesito para la matrícula?
+Respuesta: Necesitas tu cédula de identidad, licencia de enseñanza media, certificado de nacimiento y comprobante de postulación.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Cuánto cuesta la matrícula?
+Respuesta: El valor de la matrícula varía según la carrera, pero en promedio es de $180.000 CLP.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿La universidad tiene campus en otras ciudades?
+Respuesta: Sí, contamos con campus en Valdivia, Osorno, Puerto Montt y Temuco.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Cuál es el horario de atención de la oficina de admisión?
+Respuesta: De lunes a viernes de 9:00 a 18:00 horas.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Puedo congelar mis estudios?
+Respuesta: Sí, puedes congelar una vez por año académico, presentando una solicitud y justificación.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Cuáles son las carreras más demandadas?
+Respuesta: Las carreras más demandadas son Enfermería, Ingeniería Civil Informática y Psicología.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Cuándo empieza el año académico 2025?
+Respuesta: El primer semestre inicia el lunes 10 de marzo de 2025.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Puedo cambiarme de carrera una vez matriculado?
+Respuesta: Sí, puedes solicitar un cambio de carrera después del primer semestre, sujeto a cupo disponible.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Hay intercambios estudiantiles?
+Respuesta: Sí, la universidad tiene convenios con instituciones en España, México, Colombia y Alemania.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Dónde puedo solicitar una beca interna?
+Respuesta: Debes ingresar al sistema de becas con tu RUT y completar el formulario online.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Cuáles son los requisitos para postular a la universidad?
+Respuesta: Para postular necesitas tu cédula de identidad, certificado de notas de enseñanza media y haber rendido la PAES.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Cuándo son las matrículas para el primer semestre?
+Respuesta: Las matrículas comienzan en enero, justo después de la publicación de los resultados de la PAES.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Qué carreras ofrece la universidad en modalidad vespertina?
+Respuesta: Las carreras vespertinas incluyen Ingeniería Comercial, Psicología, Trabajo Social y Contador Auditor.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Dónde puedo ver los resultados de mi postulación?
+Respuesta: Puedes ver tus resultados ingresando al portal del estudiante con tu RUT y clave.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Qué beneficios estudiantiles puedo postular?
+Respuesta: Puedes postular a gratuidad, becas internas, beca de alimentación y el Fondo Solidario de Crédito Universitario.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Qué documentos necesito para la matrícula?
+Respuesta: Necesitas tu cédula de identidad, licencia de enseñanza media, certificado de nacimiento y comprobante de postulación.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Cuánto cuesta la matrícula?
+Respuesta: El valor de la matrícula varía según la carrera, pero en promedio es de $180.000 CLP.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿La universidad tiene campus en otras ciudades?
+Respuesta: Sí, contamos con campus en Valdivia, Osorno, Puerto Montt y Temuco.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Cuál es el horario de atención de la oficina de admisión?
+Respuesta: De lunes a viernes de 9:00 a 18:00 horas.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Puedo congelar mis estudios?
+Respuesta: Sí, puedes congelar una vez por año académico, presentando una solicitud y justificación.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Cuáles son las carreras más demandadas?
+Respuesta: Las carreras más demandadas son Enfermería, Ingeniería Civil Informática y Psicología.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Cuándo empieza el año académico 2025?
+Respuesta: El primer semestre inicia el lunes 10 de marzo de 2025.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Puedo cambiarme de carrera una vez matriculado?
+Respuesta: Sí, puedes solicitar un cambio de carrera después del primer semestre, sujeto a cupo disponible.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Hay intercambios estudiantiles?
+Respuesta: Sí, la universidad tiene convenios con instituciones en España, México, Colombia y Alemania.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Dónde puedo solicitar una beca interna?
+Respuesta: Debes ingresar al sistema de becas con tu RUT y completar el formulario online.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Cuáles son los requisitos para postular a la universidad?
+Respuesta: Para postular necesitas tu cédula de identidad, certificado de notas de enseñanza media y haber rendido la PAES.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Cuándo son las matrículas para el primer semestre?
+Respuesta: Las matrículas comienzan en enero, justo después de la publicación de los resultados de la PAES.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Qué carreras ofrece la universidad en modalidad vespertina?
+Respuesta: Las carreras vespertinas incluyen Ingeniería Comercial, Psicología, Trabajo Social y Contador Auditor.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Dónde puedo ver los resultados de mi postulación?
+Respuesta: Puedes ver tus resultados ingresando al portal del estudiante con tu RUT y clave.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Qué beneficios estudiantiles puedo postular?
+Respuesta: Puedes postular a gratuidad, becas internas, beca de alimentación y el Fondo Solidario de Crédito Universitario.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Qué documentos necesito para la matrícula?
+Respuesta: Necesitas tu cédula de identidad, licencia de enseñanza media, certificado de nacimiento y comprobante de postulación.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Cuánto cuesta la matrícula?
+Respuesta: El valor de la matrícula varía según la carrera, pero en promedio es de $180.000 CLP.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿La universidad tiene campus en otras ciudades?
+Respuesta: Sí, contamos con campus en Valdivia, Osorno, Puerto Montt y Temuco.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Cuál es el horario de atención de la oficina de admisión?
+Respuesta: De lunes a viernes de 9:00 a 18:00 horas.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Puedo congelar mis estudios?
+Respuesta: Sí, puedes congelar una vez por año académico, presentando una solicitud y justificación.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Cuáles son las carreras más demandadas?
+Respuesta: Las carreras más demandadas son Enfermería, Ingeniería Civil Informática y Psicología.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Cuándo empieza el año académico 2025?
+Respuesta: El primer semestre inicia el lunes 10 de marzo de 2025.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Puedo cambiarme de carrera una vez matriculado?
+Respuesta: Sí, puedes solicitar un cambio de carrera después del primer semestre, sujeto a cupo disponible.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Hay intercambios estudiantiles?
+Respuesta: Sí, la universidad tiene convenios con instituciones en España, México, Colombia y Alemania.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Dónde puedo solicitar una beca interna?
+Respuesta: Debes ingresar al sistema de becas con tu RUT y completar el formulario online.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Cuáles son los requisitos para postular a la universidad?
+Respuesta: Para postular necesitas tu cédula de identidad, certificado de notas de enseñanza media y haber rendido la PAES.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Cuándo son las matrículas para el primer semestre?
+Respuesta: Las matrículas comienzan en enero, justo después de la publicación de los resultados de la PAES.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Qué carreras ofrece la universidad en modalidad vespertina?
+Respuesta: Las carreras vespertinas incluyen Ingeniería Comercial, Psicología, Trabajo Social y Contador Auditor.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Dónde puedo ver los resultados de mi postulación?
+Respuesta: Puedes ver tus resultados ingresando al portal del estudiante con tu RUT y clave.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Qué beneficios estudiantiles puedo postular?
+Respuesta: Puedes postular a gratuidad, becas internas, beca de alimentación y el Fondo Solidario de Crédito Universitario.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Qué documentos necesito para la matrícula?
+Respuesta: Necesitas tu cédula de identidad, licencia de enseñanza media, certificado de nacimiento y comprobante de postulación.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Cuánto cuesta la matrícula?
+Respuesta: El valor de la matrícula varía según la carrera, pero en promedio es de $180.000 CLP.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿La universidad tiene campus en otras ciudades?
+Respuesta: Sí, contamos con campus en Valdivia, Osorno, Puerto Montt y Temuco.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Cuál es el horario de atención de la oficina de admisión?
+Respuesta: De lunes a viernes de 9:00 a 18:00 horas.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Puedo congelar mis estudios?
+Respuesta: Sí, puedes congelar una vez por año académico, presentando una solicitud y justificación.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Cuáles son las carreras más demandadas?
+Respuesta: Las carreras más demandadas son Enfermería, Ingeniería Civil Informática y Psicología.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Cuándo empieza el año académico 2025?
+Respuesta: El primer semestre inicia el lunes 10 de marzo de 2025.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Puedo cambiarme de carrera una vez matriculado?
+Respuesta: Sí, puedes solicitar un cambio de carrera después del primer semestre, sujeto a cupo disponible.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Hay intercambios estudiantiles?
+Respuesta: Sí, la universidad tiene convenios con instituciones en España, México, Colombia y Alemania.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Dónde puedo solicitar una beca interna?
+Respuesta: Debes ingresar al sistema de becas con tu RUT y completar el formulario online.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Cuáles son los requisitos para postular a la universidad?
+Respuesta: Para postular necesitas tu cédula de identidad, certificado de notas de enseñanza media y haber rendido la PAES.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Cuándo son las matrículas para el primer semestre?
+Respuesta: Las matrículas comienzan en enero, justo después de la publicación de los resultados de la PAES.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Qué carreras ofrece la universidad en modalidad vespertina?
+Respuesta: Las carreras vespertinas incluyen Ingeniería Comercial, Psicología, Trabajo Social y Contador Auditor.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Dónde puedo ver los resultados de mi postulación?
+Respuesta: Puedes ver tus resultados ingresando al portal del estudiante con tu RUT y clave.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Qué beneficios estudiantiles puedo postular?
+Respuesta: Puedes postular a gratuidad, becas internas, beca de alimentación y el Fondo Solidario de Crédito Universitario.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Qué documentos necesito para la matrícula?
+Respuesta: Necesitas tu cédula de identidad, licencia de enseñanza media, certificado de nacimiento y comprobante de postulación.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Cuánto cuesta la matrícula?
+Respuesta: El valor de la matrícula varía según la carrera, pero en promedio es de $180.000 CLP.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿La universidad tiene campus en otras ciudades?
+Respuesta: Sí, contamos con campus en Valdivia, Osorno, Puerto Montt y Temuco.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Cuál es el horario de atención de la oficina de admisión?
+Respuesta: De lunes a viernes de 9:00 a 18:00 horas.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Puedo congelar mis estudios?
+Respuesta: Sí, puedes congelar una vez por año académico, presentando una solicitud y justificación.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Cuáles son las carreras más demandadas?
+Respuesta: Las carreras más demandadas son Enfermería, Ingeniería Civil Informática y Psicología.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Cuándo empieza el año académico 2025?
+Respuesta: El primer semestre inicia el lunes 10 de marzo de 2025.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Puedo cambiarme de carrera una vez matriculado?
+Respuesta: Sí, puedes solicitar un cambio de carrera después del primer semestre, sujeto a cupo disponible.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Hay intercambios estudiantiles?
+Respuesta: Sí, la universidad tiene convenios con instituciones en España, México, Colombia y Alemania.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Dónde puedo solicitar una beca interna?
+Respuesta: Debes ingresar al sistema de becas con tu RUT y completar el formulario online.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Cuáles son los requisitos para postular a la universidad?
+Respuesta: Para postular necesitas tu cédula de identidad, certificado de notas de enseñanza media y haber rendido la PAES.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Cuándo son las matrículas para el primer semestre?
+Respuesta: Las matrículas comienzan en enero, justo después de la publicación de los resultados de la PAES.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Qué carreras ofrece la universidad en modalidad vespertina?
+Respuesta: Las carreras vespertinas incluyen Ingeniería Comercial, Psicología, Trabajo Social y Contador Auditor.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Dónde puedo ver los resultados de mi postulación?
+Respuesta: Puedes ver tus resultados ingresando al portal del estudiante con tu RUT y clave.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Qué beneficios estudiantiles puedo postular?
+Respuesta: Puedes postular a gratuidad, becas internas, beca de alimentación y el Fondo Solidario de Crédito Universitario.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Qué documentos necesito para la matrícula?
+Respuesta: Necesitas tu cédula de identidad, licencia de enseñanza media, certificado de nacimiento y comprobante de postulación.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Cuánto cuesta la matrícula?
+Respuesta: El valor de la matrícula varía según la carrera, pero en promedio es de $180.000 CLP.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿La universidad tiene campus en otras ciudades?
+Respuesta: Sí, contamos con campus en Valdivia, Osorno, Puerto Montt y Temuco.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Cuál es el horario de atención de la oficina de admisión?
+Respuesta: De lunes a viernes de 9:00 a 18:00 horas.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Puedo congelar mis estudios?
+Respuesta: Sí, puedes congelar una vez por año académico, presentando una solicitud y justificación.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Cuáles son las carreras más demandadas?
+Respuesta: Las carreras más demandadas son Enfermería, Ingeniería Civil Informática y Psicología.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Cuándo empieza el año académico 2025?
+Respuesta: El primer semestre inicia el lunes 10 de marzo de 2025.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Puedo cambiarme de carrera una vez matriculado?
+Respuesta: Sí, puedes solicitar un cambio de carrera después del primer semestre, sujeto a cupo disponible.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Hay intercambios estudiantiles?
+Respuesta: Sí, la universidad tiene convenios con instituciones en España, México, Colombia y Alemania.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Dónde puedo solicitar una beca interna?
+Respuesta: Debes ingresar al sistema de becas con tu RUT y completar el formulario online.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Cuáles son los requisitos para postular a la universidad?
+Respuesta: Para postular necesitas tu cédula de identidad, certificado de notas de enseñanza media y haber rendido la PAES.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Cuándo son las matrículas para el primer semestre?
+Respuesta: Las matrículas comienzan en enero, justo después de la publicación de los resultados de la PAES.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Qué carreras ofrece la universidad en modalidad vespertina?
+Respuesta: Las carreras vespertinas incluyen Ingeniería Comercial, Psicología, Trabajo Social y Contador Auditor.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Dónde puedo ver los resultados de mi postulación?
+Respuesta: Puedes ver tus resultados ingresando al portal del estudiante con tu RUT y clave.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Qué beneficios estudiantiles puedo postular?
+Respuesta: Puedes postular a gratuidad, becas internas, beca de alimentación y el Fondo Solidario de Crédito Universitario.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Qué documentos necesito para la matrícula?
+Respuesta: Necesitas tu cédula de identidad, licencia de enseñanza media, certificado de nacimiento y comprobante de postulación.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Cuánto cuesta la matrícula?
+Respuesta: El valor de la matrícula varía según la carrera, pero en promedio es de $180.000 CLP.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿La universidad tiene campus en otras ciudades?
+Respuesta: Sí, contamos con campus en Valdivia, Osorno, Puerto Montt y Temuco.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Cuál es el horario de atención de la oficina de admisión?
+Respuesta: De lunes a viernes de 9:00 a 18:00 horas.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Puedo congelar mis estudios?
+Respuesta: Sí, puedes congelar una vez por año académico, presentando una solicitud y justificación.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Cuáles son las carreras más demandadas?
+Respuesta: Las carreras más demandadas son Enfermería, Ingeniería Civil Informática y Psicología.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Cuándo empieza el año académico 2025?
+Respuesta: El primer semestre inicia el lunes 10 de marzo de 2025.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Puedo cambiarme de carrera una vez matriculado?
+Respuesta: Sí, puedes solicitar un cambio de carrera después del primer semestre, sujeto a cupo disponible.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Hay intercambios estudiantiles?
+Respuesta: Sí, la universidad tiene convenios con instituciones en España, México, Colombia y Alemania.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Dónde puedo solicitar una beca interna?
+Respuesta: Debes ingresar al sistema de becas con tu RUT y completar el formulario online.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Cuáles son los requisitos para postular a la universidad?
+Respuesta: Para postular necesitas tu cédula de identidad, certificado de notas de enseñanza media y haber rendido la PAES.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Cuándo son las matrículas para el primer semestre?
+Respuesta: Las matrículas comienzan en enero, justo después de la publicación de los resultados de la PAES.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Qué carreras ofrece la universidad en modalidad vespertina?
+Respuesta: Las carreras vespertinas incluyen Ingeniería Comercial, Psicología, Trabajo Social y Contador Auditor.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Dónde puedo ver los resultados de mi postulación?
+Respuesta: Puedes ver tus resultados ingresando al portal del estudiante con tu RUT y clave.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Qué beneficios estudiantiles puedo postular?
+Respuesta: Puedes postular a gratuidad, becas internas, beca de alimentación y el Fondo Solidario de Crédito Universitario.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Qué documentos necesito para la matrícula?
+Respuesta: Necesitas tu cédula de identidad, licencia de enseñanza media, certificado de nacimiento y comprobante de postulación.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Cuánto cuesta la matrícula?
+Respuesta: El valor de la matrícula varía según la carrera, pero en promedio es de $180.000 CLP.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿La universidad tiene campus en otras ciudades?
+Respuesta: Sí, contamos con campus en Valdivia, Osorno, Puerto Montt y Temuco.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Cuál es el horario de atención de la oficina de admisión?
+Respuesta: De lunes a viernes de 9:00 a 18:00 horas.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Puedo congelar mis estudios?
+Respuesta: Sí, puedes congelar una vez por año académico, presentando una solicitud y justificación.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Cuáles son las carreras más demandadas?
+Respuesta: Las carreras más demandadas son Enfermería, Ingeniería Civil Informática y Psicología.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Cuándo empieza el año académico 2025?
+Respuesta: El primer semestre inicia el lunes 10 de marzo de 2025.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Puedo cambiarme de carrera una vez matriculado?
+Respuesta: Sí, puedes solicitar un cambio de carrera después del primer semestre, sujeto a cupo disponible.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Hay intercambios estudiantiles?
+Respuesta: Sí, la universidad tiene convenios con instituciones en España, México, Colombia y Alemania.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Dónde puedo solicitar una beca interna?
+Respuesta: Debes ingresar al sistema de becas con tu RUT y completar el formulario online.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Cuáles son los requisitos para postular a la universidad?
+Respuesta: Para postular necesitas tu cédula de identidad, certificado de notas de enseñanza media y haber rendido la PAES.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Cuándo son las matrículas para el primer semestre?
+Respuesta: Las matrículas comienzan en enero, justo después de la publicación de los resultados de la PAES.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Qué carreras ofrece la universidad en modalidad vespertina?
+Respuesta: Las carreras vespertinas incluyen Ingeniería Comercial, Psicología, Trabajo Social y Contador Auditor.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Dónde puedo ver los resultados de mi postulación?
+Respuesta: Puedes ver tus resultados ingresando al portal del estudiante con tu RUT y clave.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Qué beneficios estudiantiles puedo postular?
+Respuesta: Puedes postular a gratuidad, becas internas, beca de alimentación y el Fondo Solidario de Crédito Universitario.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Qué documentos necesito para la matrícula?
+Respuesta: Necesitas tu cédula de identidad, licencia de enseñanza media, certificado de nacimiento y comprobante de postulación.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Cuánto cuesta la matrícula?
+Respuesta: El valor de la matrícula varía según la carrera, pero en promedio es de $180.000 CLP.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿La universidad tiene campus en otras ciudades?
+Respuesta: Sí, contamos con campus en Valdivia, Osorno, Puerto Montt y Temuco.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Cuál es el horario de atención de la oficina de admisión?
+Respuesta: De lunes a viernes de 9:00 a 18:00 horas.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Puedo congelar mis estudios?
+Respuesta: Sí, puedes congelar una vez por año académico, presentando una solicitud y justificación.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Cuáles son las carreras más demandadas?
+Respuesta: Las carreras más demandadas son Enfermería, Ingeniería Civil Informática y Psicología.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Cuándo empieza el año académico 2025?
+Respuesta: El primer semestre inicia el lunes 10 de marzo de 2025.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Puedo cambiarme de carrera una vez matriculado?
+Respuesta: Sí, puedes solicitar un cambio de carrera después del primer semestre, sujeto a cupo disponible.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Hay intercambios estudiantiles?
+Respuesta: Sí, la universidad tiene convenios con instituciones en España, México, Colombia y Alemania.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Dónde puedo solicitar una beca interna?
+Respuesta: Debes ingresar al sistema de becas con tu RUT y completar el formulario online.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Cuáles son los requisitos para postular a la universidad?
+Respuesta: Para postular necesitas tu cédula de identidad, certificado de notas de enseñanza media y haber rendido la PAES.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Cuándo son las matrículas para el primer semestre?
+Respuesta: Las matrículas comienzan en enero, justo después de la publicación de los resultados de la PAES.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Qué carreras ofrece la universidad en modalidad vespertina?
+Respuesta: Las carreras vespertinas incluyen Ingeniería Comercial, Psicología, Trabajo Social y Contador Auditor.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Dónde puedo ver los resultados de mi postulación?
+Respuesta: Puedes ver tus resultados ingresando al portal del estudiante con tu RUT y clave.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Qué beneficios estudiantiles puedo postular?
+Respuesta: Puedes postular a gratuidad, becas internas, beca de alimentación y el Fondo Solidario de Crédito Universitario.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Qué documentos necesito para la matrícula?
+Respuesta: Necesitas tu cédula de identidad, licencia de enseñanza media, certificado de nacimiento y comprobante de postulación.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Cuánto cuesta la matrícula?
+Respuesta: El valor de la matrícula varía según la carrera, pero en promedio es de $180.000 CLP.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿La universidad tiene campus en otras ciudades?
+Respuesta: Sí, contamos con campus en Valdivia, Osorno, Puerto Montt y Temuco.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Cuál es el horario de atención de la oficina de admisión?
+Respuesta: De lunes a viernes de 9:00 a 18:00 horas.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Puedo congelar mis estudios?
+Respuesta: Sí, puedes congelar una vez por año académico, presentando una solicitud y justificación.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Cuáles son las carreras más demandadas?
+Respuesta: Las carreras más demandadas son Enfermería, Ingeniería Civil Informática y Psicología.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Cuándo empieza el año académico 2025?
+Respuesta: El primer semestre inicia el lunes 10 de marzo de 2025.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Puedo cambiarme de carrera una vez matriculado?
+Respuesta: Sí, puedes solicitar un cambio de carrera después del primer semestre, sujeto a cupo disponible.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Hay intercambios estudiantiles?
+Respuesta: Sí, la universidad tiene convenios con instituciones en España, México, Colombia y Alemania.<|endoftext|>
+<|startoftext|><|universidad|>Pregunta: ¿Dónde puedo solicitar una beca interna?
+Respuesta: Debes ingresar al sistema de becas con tu RUT y completar el formulario online.<|endoftext|>
